@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "725531855026",
+    "firebase_url": "https://findfriendscircle-f45f6.firebaseio.com",
+    "project_id": "findfriendscircle-f45f6",
+    "storage_bucket": "findfriendscircle-f45f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725531855026:android:bab4cc4870106641a0e1ab",
+        "android_client_info": {
+          "package_name": "com.friendscircle.friendscircle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725531855026-rtu7h315lo7hmtkuoelfu168iu0rvkrb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.friendscircle.friendscircle",
+            "certificate_hash": "8ddf9eb3b57e02bb501c0e908b2f844b8d42bcdc"
+          }
+        },
+        {
+          "client_id": "725531855026-4d3ub5d4ls0gteikb289jtoqnf355a2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwTn-aEmfqdZJJU7uYfNFs9SxC2LB699g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725531855026-4d3ub5d4ls0gteikb289jtoqnf355a2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
